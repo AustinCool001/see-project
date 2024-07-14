@@ -1,4 +1,6 @@
-
+body{
+  background-image: url(house.jpg)
+}
   .container{
 background-color: linear-gradient(#7700b3,#d580ff);
   }
